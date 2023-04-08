@@ -1,4 +1,0 @@
-Tic Tac Toe is a two player game in which both player have their sign either 'O' or 
-'X'.
-The Player who put their three sign in straight line (it may be diagonal as well)
-Wins.
